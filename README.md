@@ -35,6 +35,6 @@ Este projeto é uma aplicação web para ajudar as pessoas a gerenciar suas tare
 ## Licença 📄
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
-![R](https://github.com/danielsouza02/Hello-World/assets/149329585/d502fb91-71bd-475b-b40c-0e98298e05fb)
+![R](https://github.com/danielsouza02/Hello-World/assets/149329585/59dac59e-dd15-46a4-b33f-8795fcc7c70e)
 
 Este README.md fornece uma visão geral do projeto, suas funcionalidades, as tecnologias utilizadas, instruções para instalação e uso, orientações sobre como contribuir e informações sobre a licença do projeto. Adapte-o de acordo com as necessidades do seu projeto.
