@@ -26,7 +26,7 @@ Este projeto é uma aplicação web para ajudar as pessoas a gerenciar suas tare
 2. **Instale as dependências**: `npm install`
 3. **Configure as variáveis de ambiente** no arquivo `.env`
 4. **Inicie o servidor**: `npm start`
-5. **Acesse a aplicação no navegador**: [OCtocat](http://localhost:3000)
+5. **Acesse a aplicação no navegador**: [Octocat](http://localhost:3000)
 
 ## Contribuição 💡
 - Sinta-se à vontade para contribuir com novas funcionalidades, correções de bugs ou melhorias na documentação.
